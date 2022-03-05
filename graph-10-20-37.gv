@@ -1,0 +1,21 @@
+graph {
+V0 -- V1 [label="2",weight="2", color="orange",penwidth=3.0];
+V0 -- V2 [label="26",weight="26", color="brown",penwidth=3.0];
+V0 -- V3 [label="28",weight="28", color="pink",penwidth=3.0];
+V0 -- V4 [label="15",weight="15", color="pink",penwidth=3.0];
+V1 -- V0 [label="18",weight="18", color="yellow",penwidth=3.0];
+V1 -- V2 [label="4",weight="4", color="pink",penwidth=3.0];
+V1 -- V3 [label="26",weight="26", color="orange",penwidth=3.0];
+V1 -- V4 [label="29",weight="29", color="brown",penwidth=3.0];
+V2 -- V0 [label="10",weight="10", color="pink",penwidth=3.0];
+V2 -- V1 [label="20",weight="20", color="violet",penwidth=3.0];
+V2 -- V3 [label="5",weight="5", color="violet",penwidth=3.0];
+V2 -- V4 [label="24",weight="24", color="yellow",penwidth=3.0];
+V3 -- V0 [label="10",weight="10", color="violet",penwidth=3.0];
+V3 -- V1 [label="7",weight="7", color="orange",penwidth=3.0];
+V3 -- V2 [label="13",weight="13", color="brown",penwidth=3.0];
+V4 -- V0 [label="16",weight="16", color="orange",penwidth=3.0];
+V4 -- V1 [label="10",weight="10", color="pink",penwidth=3.0];
+V4 -- V2 [label="14",weight="14", color="orange",penwidth=3.0];
+V4 -- V3 [label="17",weight="17", color="orange",penwidth=3.0];
+}
